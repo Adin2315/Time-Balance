@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_light">#00D2FF</color>
+    <color name="primary_dark">#3A7BD5</color>
+    <color name="splash_background">#FFFFFF</color>
+    <color name="app_name_color">#3A7BD5</color>
+    <color name="tagline_color">#00D2FF</color>
+    <color name="progress_color">#00D2FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_medium">#9E9E9E</color>
+    <color name="gray_dark">#424242</color>
+    <color name="primary_color">#2196F3</color>
+    <color name="primary_dark_color">#1976D2</color>
+    <color name="primary_light_color">#BBDEFB</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary_color">#FF9800</color>
+    <color name="secondary_dark_color">#F57C00</color>
+    <color name="secondary_light_color">#FFE0B2</color>
+
+    <!-- Text Colors -->
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#757575</color>
+    <color name="white_text_color">#FFFFFF</color>
+
+    <!-- Background Colors -->
+    <color name="background_color">#F5F5F5</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_color">#4CAF50</color>
+    <color name="error_color">#F44336</color>
+    <color name="warning_color">#FF9800</color>
+
+    <color name="transparent">#00000000</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#2196F3</color>
+    <color name="gradient_end">#21CBF3</color>
+    <color name="border_color">#E0E0E0</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <color name="completed_bg">#E8F5E9</color>
+    <color name="missed_bg">#FFEBEE</color>
+
+    <color name="star_color">#FFD700</color>
+    <color name="delete_background">#F44336</color>
+    <color name="edit_background">#4CAF50</color>
+
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="star_color_active">#FFD700</color>
+    <color name="star_color_inactive">#B0B0B0</color>
+</resources>

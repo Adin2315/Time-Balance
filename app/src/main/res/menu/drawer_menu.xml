@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_all_schedule"
+            android:icon="@drawable/ic_schedule"
+            android:title="@string/nav_all_schedule" />
+
+        <item
+            android:id="@+id/nav_starred"
+            android:icon="@drawable/ic_starred"
+            android:title="@string/nav_starred" />
+
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/ic_notifications"
+            android:title="@string/nav_notifications" />
+
+    </group>
+
+    <item android:title="@string/nav_group_other">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info"
+                android:title="@string/nav_about_us" />
+        </menu>
+    </item>
+
+</menu>
